@@ -46,3 +46,4 @@ If you're interested in contributing to the Grafana project:
 Grafana is distributed under the [Apache 2.0 License](https://github.com/grafana/grafana/blob/master/LICENSE).
 
 <!-- test change by assistant -->
+<!-- second test change by assistant -->
