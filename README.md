@@ -47,3 +47,4 @@ Grafana is distributed under the [Apache 2.0 License](https://github.com/grafana
 
 <!-- test change by assistant -->
 <!-- second test change by assistant -->
+<!-- third test change by assistant -->
