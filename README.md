@@ -44,3 +44,25 @@ If you're interested in contributing to the Grafana project:
 ## License
 
 Grafana is distributed under the [Apache 2.0 License](https://github.com/grafana/grafana/blob/master/LICENSE).
+
+---
+
+## About Grafana
+
+Grafana is the leading open-source platform for monitoring, observability, and data visualization. It enables teams to query, visualize, and alert on metrics, logs, and traces from virtually any data source — all in one place.
+
+### What is Grafana?
+
+Grafana connects to dozens of data sources (Prometheus, Loki, Elasticsearch, InfluxDB, PostgreSQL, and many more) and lets you build beautiful, interactive dashboards without writing any front-end code. It is used by organizations of all sizes to gain insight into their infrastructure, applications, and business metrics.
+
+### Quick Start
+
+1. **Install Grafana** — download the latest release from [grafana.com/get](https://grafana.com/get) or run it with Docker:
+   ```bash
+   docker run -d -p 3000:3000 grafana/grafana
+   ```
+2. **Open the UI** — navigate to `http://localhost:3000` in your browser (default credentials: `admin` / `admin`).
+3. **Add a data source** — go to **Configuration → Data Sources** and connect Grafana to your metrics or log backend.
+4. **Build a dashboard** — click **+ → Dashboard** and start adding panels to visualize your data.
+
+For a full walkthrough see the [Getting Started guide](https://grafana.com/docs/grafana/latest/getting-started/).
